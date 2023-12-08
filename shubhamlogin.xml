@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="61.665" tests="3" skipped="0" failures="0" errors="0">
+<testcase classname="test login" name="check login with valid - Example #1.1" time="10.741">
+<system-out><![CDATA[
+Given browser is open new...................................................passed
+And user is login page new..................................................passed
+When user enters shubham and kapse and shubham@123..........................passed
+And user click on login button..............................................passed
+Then user is navigated next page............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="test login" name="check login with valid - Example #1.2" time="15.786">
+<system-out><![CDATA[
+Given browser is open new...................................................passed
+And user is login page new..................................................passed
+When user enters abhijit and kapse and abhijit@123..........................passed
+And user click on login button..............................................passed
+Then user is navigated next page............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="test login" name="check login with valid - Example #1.3" time="34.945">
+<system-out><![CDATA[
+Given browser is open new...................................................passed
+And user is login page new..................................................passed
+When user enters sarthak and tambe and sarthak@123..........................passed
+And user click on login button..............................................passed
+Then user is navigated next page............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
