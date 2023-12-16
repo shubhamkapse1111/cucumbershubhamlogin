@@ -1,0 +1,27 @@
+Started by user [8mha:////4G3B/BDu94rgD0gYNKu22yOhAiclOV7P378XFgvHT7rnAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAxRoBn6pcWpRfrFGaVJGYm52YkFxakA9Tu4EMcAAAA=[0mshubham rajaram kapse
+Running as SYSTEM
+Building in workspace /home/jenkins_home/workspace/cucumber report
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /home/jenkins_home/workspace/cucumber report/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/shubhamkapse1111/cucumbershubhamlogin.git # timeout=10
+Fetching upstream changes from https://github.com/shubhamkapse1111/cucumbershubhamlogin.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.34.1'
+ > git fetch --tags --force --progress -- https://github.com/shubhamkapse1111/cucumbershubhamlogin.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/main^{commit} # timeout=10
+Checking out Revision 4701ab870586052c65ee254ef6e7521543585253 (refs/remotes/origin/main)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 4701ab870586052c65ee254ef6e7521543585253 # timeout=10
+Commit message: "Add files via upload"
+ > git rev-list --no-walk 4701ab870586052c65ee254ef6e7521543585253 # timeout=10
+[CucumberReport] Using Cucumber Reports version 5.8.0
+[CucumberReport] JSON report directory is "/home/jenkins_home/workspace/cucumber report/"
+[CucumberReport] Copied 0 properties files from workspace "/home/jenkins_home/workspace/cucumber report" to reports directory "/home/jenkins_home/jobs/cucumber report/builds/15/cucumber-html-reports_52ebfe56-d7cb-3e08-92ae-4adbc7f668e2/.cache"
+[CucumberReport] Copied 1 files from workspace "/home/jenkins_home/workspace/cucumber report" to reports directory "/home/jenkins_home/jobs/cucumber report/builds/15/cucumber-html-reports_52ebfe56-d7cb-3e08-92ae-4adbc7f668e2/.cache"
+[CucumberReport] Processing 1 json files:
+[CucumberReport] /home/jenkins_home/jobs/cucumber report/builds/15/cucumber-html-reports_52ebfe56-d7cb-3e08-92ae-4adbc7f668e2/.cache/shubhamlogin.json
+[CucumberReport] Found 5 skipped steps, while expected at most 0
+[CucumberReport] Build status is left unchanged
+Finished: SUCCESS
